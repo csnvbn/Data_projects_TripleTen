@@ -1,2 +1,6 @@
-# Data_projects_TripleTen
-Portfolio of data analytics projects completed during TripleTen Bootcamp.
+| Project Number | Title                             | Description                                                                                                                                              |
+| -------------- | --------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1              | Customer Return Rate Dashboard    | Created an interactive Tableau dashboard to explore return behavior, identify patterns, and support retention recommendations.                           |
+| 2              | Superstore Profit & Loss Analysis | Used Tableau to visualize key profit and loss centers by product and region, providing business insights to guide decision-making.                       |
+| 3              | Airbnb Listings Flagging          | Built a spreadsheet model to identify top-performing listings based on location, room type, and review activity using nested logic functions.            |
+| 4              | SQL Data Analysis Projects        | Wrote advanced SQL queries using JOINs, window functions, and subqueries to analyze sales transactions and pricing behaviors across normalized datasets. |
